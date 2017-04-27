@@ -1,2 +1,4 @@
 # git-badge
-Git &amp; Github badge
+
+Hello World!!
+This is only practice!
